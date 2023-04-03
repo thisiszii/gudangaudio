@@ -1,17 +1,17 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "",
       "select_backup_ads":"",
-      "main_ads_banner": "ca-app-pub-3379099559308238/4559005533",
-      "main_ads_intertitial":"ca-app-pub-3379099559308238/1633459290",
-      "main_ads_natives":"ca-app-pub-3379099559308238/1944697901",
-      "main_ads_rewards":"ca-app-pub-3379099559308238/1956892922",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
       "backup_ads_natives":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
       "backup_ads_rewards":"",
-      "open_ads_admob":"ca-app-pub-3379099559308238/6482708713",
+      "open_ads_admob":"",
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
@@ -19,190 +19,19 @@
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "Insurance",
-      "high_paying_keyword_2": "Loans",
-      "high_paying_keyword_3": "Degree",
-      "high_paying_keyword_4": "Lawyer",
-      "high_paying_keyword_5": "Credit",
+      "high_paying_keyword_2": "Gas",
+      "high_paying_keyword_3": "Mortgage",
+      "high_paying_keyword_4": "Attorney",
+      "high_paying_keyword_5": "Loans",
       "status_app": "0",
       "link_redirect": "https://"
     }
   ],
   "Categories": [
-    {
-      "id": 1000,
-      "name_category": "Singles",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfc57de2f41f893d38c26d854"
-    }
+   
 	
   ],
   "Data": [
-    {
-      "id": 1001,
-      "name_category": "Singles",
-      "title": "Insan Biasa",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfc57de2f41f893d38c26d854",
-      "link_mp3": "https://kangmediadev.com/gudangaudio%2fLesti%2fSingles%2f01%20Insan%20Biasa.mp3",
-      "lyrics": "<p>Salahkah aku bertahan di saat hati bimbang<br /> Dosakah berikan maaf segala jiwaku rentan<br /> Aku terdiam saat hati dan pikiranku tak sama<br /> Mengukur rasa cinta dan amarah mana yang kudengar</p> <p>&nbsp;</p> <p>Aku insan biasa begitu juga dia<br /> Walau beratku mencoba kesempatan kedua</p> <p>&nbsp;</p> <p>Aku rela hadapi semua ku buka hati seluas samudera<br /> Aku ikhlas andai dunia tak lagi ramah pada kita<br /> Kuberserah jalani kehidupanku yakin kau bisa berubah<br /> Kan ku coba bertahan selamatkan cinta kita dari badai prahara<br /> Hooo hooo hooo</p> <p>&nbsp;</p> <p>Maafkanlah bila aku membuat kecewa<br /> Aku hanya insan biasa</p> <p>&nbsp;</p> <p>Padamu Tuhan aku bermunajat atas keputusan<br /> Kan ku terima biarlah semua jadi pelajaran<br /> Aku insan biasa begitu juga dia<br /> Walau beratku mencoba kesempatan kedua</p> <p>&nbsp;</p> <p>Aku rela hadapi semua ku buka hati seluas samudera<br /> Aku ikhlas andai dunia tak lagi ramah pada kita<br /> Kuberserah jalani kehidupanku yakin kau bisa berubah<br /> Kan ku coba bertahan selamatkan cinta kita dari badai prahara</p> <p>&nbsp;</p> <p>Aku rela hadapi semua ku buka hati seluas samudera<br /> Aku ikhlas andai dunia tak lagi ramah pada kita<br /> Kuberserah jalani kehidupanku yakin kau bisa berubah<br /> Kan ku coba bertahan selamatkan cinta kita dari badai prahara<br /> Aku insan biasa<br /> Maafkanlah</p> "
-	},
-	{
-      "id": 1002,
-      "name_category": "Singles",
-      "title": "Sekali Seumur Hidup",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfc57de2f41f893d38c26d854",
-      "link_mp3": "https://kangmediadev.com/gudangaudio%2fLesti%2fSingles%2f01%20Sekali%20Seumur%20Hidup.mp3",
-      "lyrics": "<p>Kau hadir bagai dalam mimpi<br /> Dan aku tak ingin terjaga lagi<br /> Merangkai kisah seorang putri<br /> Yang jatuh cinta pada sang pangeran</p> <p>&nbsp;</p> <p>Andai engkau seorang raja<br /> Aku ingin menjadi ratunya<br /> Bersama hadapi dunia<br /> Di kerajaan cinta kita berdua</p> <p>&nbsp;</p> <p>Sekali seumur hidup<br /> Cukup satu kali jangan berubah<br /> Untuk selamanya<br /> Seia sekata, cinta</p> <p>&nbsp;</p> <p>Untuk apa harta dunia<br /> Bila tak ada cinta yang menyerta<br /> Masyhur dan semua kejayaan<br /> Tak cukup membuat kita bahagia</p> <p>&nbsp;</p> <p>Tulus kasih dan sehaluan<br /> Berlabuh kita di dermaga impian<br /> Jalani hidup tanpa dusta<br /> Penuh cinta dan kasih sayang</p> <p>&nbsp;</p> <p>Andai engkau seorang raja<br /> Aku ingin menjadi ratunya<br /> Bersama hadapi dunia<br /> Di kerajaan cinta kita berdua</p> <p>&nbsp;</p> <p>Sekali seumur hidup<br /> Cukup satu kali jangan berubah<br /> Untuk selamanya<br /> Seia sekata, cinta</p> <p>&nbsp;</p> <p>Untuk apa harta dunia<br /> Bila tak ada cinta yang menyerta<br /> Masyhur dan semua kejayaan<br /> Tak cukup membuat kita bahagia</p> <p>&nbsp;</p> <p>Tulus kasih dan sehaluan<br /> Berlabuh kita di dermaga impian<br /> Jalani hidup tanpa dusta<br /> Penuh cinta dan kasih sayang</p> "
-	},
-	{
-      "id": 1003,
-      "name_category": "Singles",
-      "title": "Lentera",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfc57de2f41f893d38c26d854",
-      "link_mp3": "https://kangmediadev.com/gudangaudio%2fLesti%2fSingles%2f01%20Lentera.mp3",
-      "lyrics": "<p>Wahai pagi mengajariku artinya kesejukan<br /> Wahai malam mengajariku artinya keheningan<br /> Dan Tuhan pun percaya menitipkan kamu padaku<br /> Dan ini pun mengajariku cinta tiada batas</p> <p>&nbsp;</p> <p>Denyutmu ada dalam denyutku<br /> Meskipun sulit kuupayakan<br /> Meraih bintang, meraih bulan hanya untukmu</p> <p>&nbsp;</p> <p>Takkan kubiarkan<br /> Kegagalan menyelimutimu<br /> Kegelapan mendampingimu<br /> Akulah lentera di hidupmu</p> <p>&nbsp;</p> <p>Bila sendu hadir<br /> Ku pasti menggantikan tempatmu<br /> Jantung pun pasti akan kuberi<br /> Surgamu ada padaku</p> <p>&nbsp;</p> <p>Oh-oh-oh</p> <p>&nbsp;</p> <p>Denyutmu ada dalam denyutku<br /> Meskipun sulit kuupayakan<br /> Meraih bintang, meraih bulan hanya untukmu<br /> Ho-oh-wo-oh</p> <p>&nbsp;</p> <p>Takkan kubiarkan<br /> Kegagalan menyelimutimu<br /> Kegelapan mendampingimu<br /> Akulah lentera di hidupmu</p> <p>&nbsp;</p> <p>Bila sendu hadir<br /> Ku pasti menggantikan tempatmu<br /> Jantung pun pasti akan kuberi, oh-oh<br /> Surgamu ada padaku</p> "
-	},
-	{
-      "id": 1004,
-      "name_category": "Singles",
-      "title": "Takdir Cinta",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfc57de2f41f893d38c26d854",
-      "link_mp3": "https://kangmediadev.com/gudangaudio%2fLesti%2fSingles%2f01%20Takdir%20Cinta.mp3",
-      "lyrics": "<p>وَمِنْ ءَايَٰتِهِۦٓ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا</p> <p>&nbsp;</p> <p>Bismillah<br /> Dengan menyebut nama Allah<br /> Izinkan aku mencintaimu<br /> Di jalan yang diridai-Nya</p> <p>&nbsp;</p> <p>Bismillah<br /> Dengan menyebut nama Allah<br /> Kudoakan dirimu menjadi jodohku<br /> Imam pemimpin dalam hidupku</p> <p>&nbsp;</p> <p>Insya Allah, kujaga dirimu<br /> Dengan seluruh cintaku, hidup dan matiku<br /> Insya Allah, kujaga kehormatanku<br /> Menjadi pendamping dalam sebuah takdir cinta</p> <p>&nbsp;</p> <p>لِّتَسْكُنُوٓا۟ إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً ۚ<br /> Dengan rida-Nya, kuucap janji suci kita berdua<br /> Ho-oh-oh</p> <p>&nbsp;</p> <p>Insya Allah (insya Allah), kujaga dirimu (kujaga dirimu)<br /> Dengan seluruh cintaku, hidup dan matiku<br /> Insya Allah, kujaga kehormatanku<br /> Menjadi pendamping dalam sebuah takdir cinta</p> <p>&nbsp;</p> <p>Insya Allah, kujaga dirimu (ho-oh)<br /> Dengan seluruh cintaku, hidup dan matiku<br /> Ho-oh, insya Allah, kujaga kehormatanku<br /> Menjadi pendamping dalam<br /> Menjadi pendamping dalam sebuah takdir cinta</p> <p>&nbsp;</p> <p>إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ</p> "
-	},
-	{
-      "id": 1005,
-      "name_category": "Singles",
-      "title": "Bawa Aku Ke Penghulu",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfc57de2f41f893d38c26d854",
-      "link_mp3": "https://kangmediadev.com/gudangaudio%2fLesti%2fSingles%2f01%20Bawa%20Aku%20Ke%20Penghulu.mp3",
-      "lyrics": "<p>Pucuk dicinta ulam pun tiba kata pepatah<br /> Kubutuh cinta kamu pun datang aku bahagia<br /> Pernah merasa sakitnya cinta hati kecewa<br /> Lalu kau hadir aku terlena tiada berdaya</p> <p>&nbsp;</p> <p>Bunga yang layu kini mekar kembali<br /> Kau siram dengan cinta sepenuh hati<br /> Ditinggal nikah kulepas dengan ikhlas<br /> Gantinya kamu ikhlas membawa berkah</p> <p>&nbsp;</p> <p>Aku siap jadi milikmu<br /> Siapkah kau menjadi imamku</p> <p>&nbsp;</p> <p>Aku takut fitnah dan dosa<br /> Bila berdua-dua denganmu</p> <p>&nbsp;</p> <p>Apa lagi yang kau tunggu<br /> Jadikan aku halal untukmu<br /> Ayah Ibu beri restu<br /> Bawa aku ke penghulu</p> <p>&nbsp;</p> <p>Pernah merasa sakitnya cinta hati kecewa<br /> Lalu kau hadir aku terlena tiada berdaya</p> <p>&nbsp;</p> <p>Bunga yang layu kini mekar kembali<br /> Kau siram dengan cinta sepenuh hati<br /> Ditinggal nikah kulepas dengan ikhlas<br /> Gantinya kamu ikhlas membawa berkah</p> <p>&nbsp;</p> <p>Aku siap jadi milikmu<br /> Siapkah kau menjadi imamku</p> <p>&nbsp;</p> <p>Aku takut fitnah dan dosa<br /> Bila berdua-dua denganmu</p> <p>&nbsp;</p> <p>Apa lagi yang kau tunggu<br /> Jadikan aku halal untukmu<br /> Ayah Ibu beri restu<br /> Bawa aku ke penghulu</p> <p>&nbsp;</p> <p>Bawa aku ke penghulu<br /> Ho sayang</p> "
-	},
-	{
-      "id": 1006,
-      "name_category": "Singles",
-      "title": "Bismillah Cinta",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfc57de2f41f893d38c26d854",
-      "link_mp3": "https://kangmediadev.com/gudangaudio%2fLesti%2fSingles%2f01%20Bismillah%20Cinta.mp3",
-      "lyrics": "<p>Tak dapat lagi kulukis rasa<br /> Ramadhan yang indah kini t&#39;lah tiba<br /> Bulan penuh berkah, rahmat dari Allah<br /> Meski dalam suasana berbeda</p> <p>&nbsp;</p> <p>Cobaan demi cobaan melanda<br /> Kita bersama namun tak lagi sama<br /> Jarak memisahkan, semua t&#39;lah berbatas<br /> Ini ujian bagi kita</p> <p>&nbsp;</p> <p>Bismillah cinta<br /> Percaya padaku, percaya cinta<br /> Yakin kita bisa lalui semua<br /> S&#39;gala cobaan yang datang mendera</p> <p>&nbsp;</p> <p>Bismillah cinta<br /> Panjatkan doa pada Yang Kuasa<br /> Bersujud pada-Nya dengan air mata<br /> Insya Allah, Ramadhan membawa hikmat</p> <p>&nbsp;</p> <p>Bismillah cinta, percaya kita<br /> Bismillah cinta, percaya cinta</p> <p>&nbsp;</p> <p>Bismillah cinta<br /> Percaya padaku, percaya cinta<br /> Yakin kita bisa lalui semua<br /> S&#39;gala cobaan yang datang mendera</p> <p>&nbsp;</p> <p>Bismillah cinta<br /> Panjatkan doa pada Yang Kuasa<br /> Bersujud pada-Nya dengan air mata<br /> Insya Allah, Ramadhan membawa hikmat</p> <p>&nbsp;</p> <p>Bismillah cinta<br /> Percaya padaku, percaya cinta<br /> Yakin kita bisa lalui semua<br /> S&#39;gala cobaan yang datang mendera</p> <p>&nbsp;</p> <p>Bismillah cinta<br /> Panjatkan doa pada Yang Kuasa<br /> Bersujud pada-Nya dengan air mata<br /> Insya Allah, Ramadhan membawa hikmat</p> <p>&nbsp;</p> <p>Ha-ah, ha-ah<br /> Bismillah cinta, bismillah cinta</p> "
-	},
-	{
-      "id": 1007,
-      "name_category": "Singles",
-      "title": "Saat Terakhir",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfc57de2f41f893d38c26d854",
-      "link_mp3": "https://kangmediadev.com/gudangaudio%2fLesti%2fSingles%2f01%20Saat%20Terakhir.mp3",
-      "lyrics": "<p>Tak pernah terpikir olehku<br /> Tak sedikit pun kubayangkan<br /> Kau akan pergi tinggalkanku sendiri</p> <p>&nbsp;</p> <p>Begitu sulit kubayangkan<br /> Begitu sakit kurasakan<br /> Kau akan pergi tinggalkanku sendiri</p> <p>&nbsp;</p> <p>Di bawah batu nisan kini, kau t&#39;lah sandarkan<br /> Kasih sayang kamu begitu dalam<br /> Sungguh, ku tak sanggup ini terjadi<br /> Kar&#39;na ku sangat cinta</p> <p>&nbsp;</p> <p>Inilah saat terakhirku melihat kamu<br /> Jatuh air mataku menangis pilu<br /> Hanya mampu ucapkan<br /> &quot;S&#39;lamat jalan, Kasih&quot;</p> <p>&nbsp;</p> <p>Satu jam saja, ku telah bisa<br /> Cintai kamu, kamu, kamu di hatiku<br /> Namun bagiku, melupakanmu<br /> Butuh waktuku seumur hidup</p> <p>&nbsp;</p> <p>Satu jam saja, ku telah bisa<br /> Sayangi kamu di hatiku<br /> Namun bagiku, melupakanmu<br /> Butuh waktuku seumur hidup</p> <p>&nbsp;</p> <p>Ho-oh-oh, di nantiku</p> <p>&nbsp;</p> <p>Inilah saat terakhirku melihat kamu<br /> (Jatuh air mataku menangis pilu)<br /> (Hanya mampu ucapkan)<br /> &quot;S&#39;lamat jalan, Kasih&quot;</p> <p>&nbsp;</p> <p>Satu jam saja, ku telah bisa<br /> Cintai kamu, kamu, kamu di hatiku<br /> Namun bagiku, melupakanmu<br /> Butuh waktuku seumur hidup</p> <p>&nbsp;</p> <p>Satu jam saja, ku telah bisa<br /> Sayangi kamu di hatiku<br /> Namun bagiku, lupakanmu<br /> Butuh waktuku seumur hidup, ho-oh</p> "
-	},
-	{
-      "id": 1008,
-      "name_category": "Singles",
-      "title": "Kulepas Dengan Ikhlas",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfc57de2f41f893d38c26d854",
-      "link_mp3": "https://kangmediadev.com/gudangaudio%2fLesti%2fSingles%2f01%20Kulepas%20Dengan%20ikhlas.mp3",
-      "lyrics": "<p>Selamat kuucapkan padamu<br /> Wahai orang yang pernah paling aku sayang</p> <p>&nbsp;</p> <p>Kulepas dirimu dengan ikhlas<br /> Moga Tuhan jagakan dirimu dan dia</p> <p>&nbsp;</p> <p>Kudatang memberikan selamat<br /> Walau langkah kaki gamang<br /> Untuk kamu aku datang<br /> Semoga dirimu bahagia</p> <p>&nbsp;</p> <p>Kulepas dirimu dengan ikhlas<br /> Semoga engkau dan dia bahagia</p> <p>&nbsp;</p> <p>Dulu kita pernah berbagi rasa<br /> Kini kita hanya teman yang biasa</p> <p>&nbsp;</p> <p>Dulu kita bisa berencana<br /> Tapi Tuhanlah yang menakdirkan</p> <p>&nbsp;</p> <p>Hidup terus berjalan<br /> Engkau tlah ku relakan<br /> Pada Tuhan semua<br /> Ku pasrahkan</p> <p>&nbsp;</p> <p>Selamat kuucapkan padamu<br /> Wahai orang yang pernah paling aku sayang</p> <p>&nbsp;</p> <p>Oh oh oh oh</p> <p>&nbsp;</p> <p>Dulu kita pernah berbagi rasa<br /> Kini kita hanya teman yang biasa</p> <p>&nbsp;</p> <p>Dulu kita bisa berencana<br /> Tapi Tuhanlah yang menakdirkan</p> <p>&nbsp;</p> <p>Hidup terus berjalan<br /> Engkau tlah ku relakan<br /> Pada Tuhan semua<br /> Ku pasrahkan</p> <p>&nbsp;</p> <p>Kulepas dirimu dengan ikhlas<br /> Semoga engkau dan dia bahagia</p> "
-	},
-	{
-      "id": 1009,
-      "name_category": "Singles",
-      "title": "Tirani",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfc57de2f41f893d38c26d854",
-      "link_mp3": "https://kangmediadev.com/gudangaudio%2fLesti%2fSingles%2f01%20Tirani.mp3",
-      "lyrics": "<p>Akhirnya aku tak sanggup lagi<br /> Untuk tetap bertahan hidup begini<br /> Cukuplah cukup sampai di sini<br /> Silahkan saja bila kau ingin pergi</p> <p>&nbsp;</p> <p>Terlalu lama<br /> Terlalu banyak<br /> Terlalu sering<br /> Kau sakiti hati ini<br /> Hanya karena ego diri</p> <p>&nbsp;</p> <p>Kasih<br /> Akhirnya<br /> Akhirnya<br /> Aku tak sanggup mendampingi dirimu</p> <p>&nbsp;</p> <p>Ha ha</p> <p>&nbsp;</p> <p>Lelah kusembunyi<br /> Di balik senyumku<br /> Hanya karena tak ingin ada<br /> Pertengkaran di antara kita berdua</p> <p>&nbsp;</p> <p>Lelah kumenanti<br /> Hilangnya tirani<br /> Namun hatimu tak bernurani<br /> Bak berharap hujan di terik sang mentari</p> <p>&nbsp;</p> <p>Puaskanlah<br /> Puaskanlah<br /> Selagi nafas masih ada</p> <p>&nbsp;</p> <p>Sekarang<br /> Silahkan engkau pergi<br /> Kejarlah semua mimpi-mimpi indahmu</p> <p>&nbsp;</p> <p>Terlalu lama<br /> Terlalu banyak<br /> Terlalu sering<br /> Kau sakiti hati ini<br /> Hanya karena ego diri</p> <p>&nbsp;</p> <p>Kasih<br /> Akhirnya<br /> Akhirnya<br /> Aku tak sanggup mendampingi dirimu</p> <p>&nbsp;</p> <p>Ha ha</p> <p>&nbsp;</p> <p>Lelah kusembunyi<br /> Di balik senyumku<br /> Hanya karena tak ingin ada<br /> Pertengkaran di antara kita berdua</p> <p>&nbsp;</p> <p>Lelah kumenanti<br /> Hilangnya tirani<br /> Namun hatimu tak bernurani<br /> Bak berharap hujan di terik sang mentari</p> <p>&nbsp;</p> <p>Puaskanlah<br /> Puaskanlah<br /> Selagi nafas masih ada</p> <p>&nbsp;</p> <p>Oh masih ada</p> "
-	},
-	{
-      "id": 1010,
-      "name_category": "Singles",
-      "title": "Ada Cerita - Versi Koplo",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfc57de2f41f893d38c26d854",
-      "link_mp3": "https://kangmediadev.com/gudangaudio%2fLesti%2fSingles%2f01%20Ada%20Cerita%20-%20Koplo%20Version.mp3",
-      "lyrics": "<p>Hapus air mata yang mengalir di wajahmu<br /> Tak perlu kau bersedih<br /> Cinta tak mungkin bisa tuk melebur menjadi satu<br /> Karena kita berdua berbeda</p> <p>&nbsp;</p> <p>Jangan tanyakan mengapa<br /> Aku pun tak ada jawabnya<br /> Bisa kau tangisi lagi<br /> Biarlah berlalu</p> <p>&nbsp;</p> <p>Dalam hatiku takkan mungkin hilang<br /> Meski dirimu tak lagi bersamaku<br /> Ada cerita di kehidupan nanti<br /> Kita bertemu<br /> Kan kupastikan kita bersatu</p> <p>&nbsp;</p> <p>Nana</p> <p>&nbsp;</p> <p>Semua kisah di antara kita<br /> Kan kujaga seumur hidupku</p> <p>&nbsp;</p> <p>Dalam hatiku takkan mungkin hilang<br /> Meski dirimu tak lagi bersamaku<br /> Ada cerita di kehidupan nanti<br /> Kita bertemu<br /> Kan kupastikan kita bersatu</p> <p>&nbsp;</p> <p>Dalam hatiku takkan mungkin hilang<br /> Meski dirimu tak lagi bersamaku<br /> Ada cerita di kehidupan nanti<br /> Kita bertemu<br /> Kan kupastikan kita bersatu hu</p> "
-	},
-	{
-      "id": 1011,
-      "name_category": "Singles",
-      "title": "Ada Cerita",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfc57de2f41f893d38c26d854",
-      "link_mp3": "https://kangmediadev.com/gudangaudio%2fLesti%2fSingles%2f01%20Ada%20Cerita.mp3",
-      "lyrics": "<p>Hapus air mata yang mengalir di wajahmu<br /> Tak perlu kau bersedih<br /> Cinta tak mungkin bisa tuk melebur menjadi satu<br /> Karena kita berdua berbeda</p> <p>&nbsp;</p> <p>Jangan tanyakan mengapa<br /> Aku pun tak ada jawabnya<br /> Bisa kau tangisi lagi<br /> Biarlah berlalu</p> <p>&nbsp;</p> <p>Dalam hatiku takkan mungkin hilang<br /> Meski dirimu tak lagi bersamaku<br /> Ada cerita di kehidupan nanti<br /> Kita bertemu<br /> Kan kupastikan kita bersatu</p> <p>&nbsp;</p> <p>Nana</p> <p>&nbsp;</p> <p>Semua kisah di antara kita<br /> Kan kujaga seumur hidupku</p> <p>&nbsp;</p> <p>Dalam hatiku takkan mungkin hilang<br /> Meski dirimu tak lagi bersamaku<br /> Ada cerita di kehidupan nanti<br /> Kita bertemu<br /> Kan kupastikan kita bersatu</p> <p>&nbsp;</p> <p>Dalam hatiku takkan mungkin hilang<br /> Meski dirimu tak lagi bersamaku<br /> Ada cerita di kehidupan nanti<br /> Kita bertemu<br /> Kan kupastikan kita bersatu hu</p> "
-	},
-	{
-      "id": 1012,
-      "name_category": "Singles",
-      "title": "Lebih Dari Selamanya",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfc57de2f41f893d38c26d854",
-      "link_mp3": "https://kangmediadev.com/gudangaudio%2fLesti%2fSingles%2f01%20Lebih%20Dari%20Selamanya.mp3",
-      "lyrics": "<p>Ku akan menyayangmu<br /> Sampai waktu memangggilku<br /> Selalu menjagamu<br /> Janjiku pada Tuhanku</p> <p>&nbsp;</p> <p>Aku terlanjur teramat sayang padamu<br /> Aku tak sanggup bila harus berpisah darimu kekasihku</p> <p>&nbsp;</p> <p>Ku akan menyayangmu<br /> Sampai waktu memanggilku</p> <p>&nbsp;</p> <p>Ha ha ha</p> <p>&nbsp;</p> <p>Hari terus berganti<br /> Kutakut engkau pergi<br /> Kau telah kumiliki<br /> Tak akan kulepas lagi</p> <p>&nbsp;</p> <p>Roda hidup berputar<br /> Suka terkadang duka<br /> Asal bersamamu kurela<br /> Dan menerima</p> <p>&nbsp;</p> <p>Terima kasih cinta<br /> Atas segala rasa<br /> Semoga selalu bersama<br /> Lebih dari selamanya</p> <p>&nbsp;</p> <p>Ku akan menyayangmu<br /> Sampai waktu memanggilku</p> <p>&nbsp;</p> <p>Ha ha ha</p> <p>&nbsp;</p> <p>Hari terus berganti<br /> Kutakut engkau pergi<br /> Kau telah kumiliki<br /> Tak akan kulepas lagi</p> <p>&nbsp;</p> <p>Roda hidup berputar<br /> Suka terkadang duka<br /> Asal bersamamu kurela<br /> Dan menerima</p> <p>&nbsp;</p> <p>Terima kasih cinta<br /> Atas segala rasa<br /> Semoga selalu bersama<br /> Lebih dari selamanya</p> <p>&nbsp;</p> <p>Oh selamanya (selamanya oh)<br /> Lebih dari selamanya</p> "
-	},
-	{
-      "id": 1013,
-      "name_category": "Singles",
-      "title": "Purnama",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfc57de2f41f893d38c26d854",
-      "link_mp3": "https://kangmediadev.com/gudangaudio%2fLesti%2fSingles%2f01%20Purnama.mp3",
-      "lyrics": "<p>Kurindu purnama lalu<br /> Berpayung kabut asmara<br /> Hingga kini masih kurasakan<br /> Meski kini kau telah sirna</p> <p>&nbsp;</p> <p>Kecup lembut di keningku<br /> Nafas cintamu cintaku<br /> Semakin dalam rinduku benderang<br /> Kala kulihat purnama</p> <p>&nbsp;</p> <p>Hening di ujung malamku<br /> Berselimut sepi ku merindukanmu</p> <p>&nbsp;</p> <p>Memendam rindu aku di sini<br /> Menanti cintamu kembali<br /> Pedih hatiku tersayat rindu<br /> Terbayang kenangan saat bersamamu</p> <p>&nbsp;</p> <p>Kala purnama menghampiriku<br /> Tak tertahan linang air mata<br /> Semakin dalam rindu kupendam<br /> Wahai purnama berilah aku terang<br /> Purnama<br /> Purnama</p> <p>&nbsp;</p> <p>Hening di ujung malamku<br /> Berselimut sepi ku merindukanmu</p> <p>&nbsp;</p> <p>Memendam rindu aku di sini<br /> Menanti cintamu kembali<br /> Pedih hatiku tersayat rindu<br /> Terbayang kenangan saat bersamamu</p> <p>&nbsp;</p> <p>Kala purnama menghampiriku<br /> Tak tertahan linang air mata<br /> Semakin dalam rindu kupendam<br /> Wahai purnama berilah aku terang</p> <p>&nbsp;</p> <p>Purnama</p> "
-	},
-	{
-      "id": 1014,
-      "name_category": "Singles",
-      "title": "Mati Gaya",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfc57de2f41f893d38c26d854",
-      "link_mp3": "https://kangmediadev.com/gudangaudio%2fLesti%2fSingles%2f01%20Mati%20Gaya.mp3",
-      "lyrics": "<p>Sejak pertama bertemu<br /> Hatiku sudah terpaku<br /> Seperti bukan diriku<br /> Bila ku tanpa dirimu oh oh</p> <p>&nbsp;</p> <p>Apakah rahasiamu<br /> Kau menjerat pikiranku<br /> Ku jadi tak tahu malu<br /> Saat kudekat denganmu</p> <p>&nbsp;</p> <p>Bila diriku lihat gayamu<br /> Aku tak mampu menahan dinginku<br /> Kau membuat diriku gila<br /> Tergila-gila gila karenamu<br /> Sungguh tak bisa aku bila<br /> Tanpamu</p> <p>&nbsp;</p> <p>Kau buat tak berdaya<br /> Kau buat diriku ini mati gaya<br /> Sumpah diriku tak kan rela<br /> Milikku saja</p> <p>&nbsp;</p> <p>Kau membuat diriku gila<br /> Tergila-gila gila karenamu<br /> Kau membuatku tak berdaya<br /> Kau buat aku mati gaya gaya</p> <p>&nbsp;</p> <p>Kau membuat diriku gila<br /> Tergila-gila gila karenamu<br /> Kau membuatku tak berdaya<br /> Kau buat aku mati gaya gaya</p> <p>&nbsp;</p> <p>Bila diriku lihat gayamu<br /> Aku tak mampu menahan dinginku<br /> Oh</p> <p>&nbsp;</p> <p>Kau membuat diriku gila<br /> Tergila-gila gila karenamu<br /> Sungguh tak bisa aku bila<br /> Tanpamu</p> <p>&nbsp;</p> <p>Kau buat tak berdaya<br /> Kau buat diriku ini mati gaya<br /> Sumpah diriku takkan rela<br /> Milikku saja</p> <p>&nbsp;</p> <p>Kau membuat diriku gila<br /> Tergila-gila gila karenamu<br /> Kau membuatku tak berdaya<br /> Kau buat aku mati gaya gaya</p> <p>&nbsp;</p> <p>Kau membuat diriku gila<br /> Tergila-gila gila karenamu<br /> Kau membuatku tak berdaya<br /> Kau buat aku mati gaya gaya</p> "
-	},
-	{
-      "id": 1015,
-      "name_category": "Singles",
-      "title": "Buka Mata Hati",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfc57de2f41f893d38c26d854",
-      "link_mp3": "https://kangmediadev.com/gudangaudio%2fLesti%2fSingles%2f01%20Buka%20Mata%20Hati.mp3",
-      "lyrics": "<p>Sudah sekian lama di dunia<br /> Tak jua kau memahami<br /> Dunia seakan hanya tentang uang dan harta</p> <p>&nbsp;</p> <p>Bagaimana agar kau mengerti?<br /> Buka mata hatimu, dengar firman Ilahi<br /> Ingatkah kau pada kematian?<br /> Yang kau bawa hanyalah amal selama di dunia</p> <p>&nbsp;</p> <p>Manusia yang paling mulia selalu menjaga hatinya<br /> Dia sabar menerima cobaan yang Allah berikan<br /> Hargailah hidup ini selagi kau masih bernafas<br /> Waktu tak akan menunggu hingga sampai kau sadar</p> <p>&nbsp;</p> <p>Khilaf itu pasti &#39;kan datang, manusia tempatnya salah<br /> Janganlah kau nodai hatimu dengan benci</p> <p>&nbsp;</p> <p>Bagaimana agar kau mengerti<br /> Buka mata hatimu dengar firman Ilahi<br /> Ingatkah kau pada kematian?<br /> Yang kau bawa hanyalah amal selama di dunia</p> <p>&nbsp;</p> <p>Manusia yang paling mulia selalu menjaga hatinya<br /> Dia sabar menerima cobaan yang Allah berikan<br /> Hargailah hidup ini selagi kau masih bernafas<br /> Waktu tak akan menunggu hingga sampai kau sadar</p> <p>&nbsp;</p> <p>Manusia yang paling mulia hanya mencintai Tuhannya<br /> Berharap pada manusia hanya kecewa yang kau dapat<br /> Hanya Tuhanlah yang mampu menjamin hidup dan matimu<br /> Bersujud dan memohon, berharaplah pada-Nya</p> "
-	},
-	{
-      "id": 1016,
-      "name_category": "Singles",
-      "title": "Egois",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfc57de2f41f893d38c26d854",
-      "link_mp3": "https://kangmediadev.com/gudangaudio%2fLesti%2fSingles%2f01%20Egois.mp3",
-      "lyrics": "<p>Harusnya tak begini<br /> Diantara kau dan aku<br /> Sama-sama bertahan<br /> Hanya kar&#39;na satu<br /> Ego sendiri (ooh)</p> <p>&nbsp;</p> <p>Sering kita sembunyi<br /> Di balik sikap dan kata<br /> Padahal hati kita<br /> Tak ingin saling menyakiti</p> <p>&nbsp;</p> <p>Mengapa tak mencoba, jujur<br /> Pada hati kita, kasih<br /> Bahwa sesungguhnya<br /> Engkau dan aku<br /> Takut berpisah (woah-oh)</p> <p>&nbsp;</p> <p>Seandainya saja, mau<br /> Sedikit mengalah, kasih<br /> Pertengkaran ini<br /> Tak mungkin ada<br /> Selamanya</p> <p>&nbsp;</p> <p>Sering kita sembunyi<br /> Dibalik sikap dan kata<br /> Padahal hati kita<br /> Tak ingin saling menyakiti</p> <p>&nbsp;</p> <p>Mengapa tak mencoba, jujur<br /> Pada hati kita, kasih<br /> Bahwa sesungguhnya<br /> Engkau dan aku<br /> Takut berpisah (woah-oh)</p> <p>&nbsp;</p> <p>Seandainya saja, mau<br /> Sedikit mengalah, kasih<br /> Pertengkaran ini<br /> Tak mungkin ada<br /> Selamanya</p> "
-	},
-	{
-      "id": 1017,
-      "name_category": "Singles",
-      "title": "Zapin Melayu",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfc57de2f41f893d38c26d854",
-      "link_mp3": "https://kangmediadev.com/gudangaudio%2fLesti%2fSingles%2f01%20Zapin%20Melayu.mp3",
-      "lyrics": "<p>Indah tersusun tangan dihayun<br /> Kaki melangkah mengikut rentak<br /> Cantik dan anggun senyum menguntum<br /> Gadis Melayu rancak bertandak</p> <p>&nbsp;</p> <p>Tampan perkasa langkah pemuda<br /> Menyusun gerak pencak berseni<br /> Menjeling dara di ekor mata<br /> Terpaut rasa oi dalam hati</p> <p>&nbsp;</p> <p>Alun-beralun hai merdu dialun<br /> Irama lama tinggalan sejarah<br /> Janganlah canggung hai duduk mengalun<br /> Lagulah zapin rentak yang terindah</p> <p>&nbsp;</p> <p>Kilau bersinar emas suasa<br /> Di jari manis elok letaknya<br /> Walau dunia terbelah dua<br /> Seni ibunda tetap dijaga</p> <p>&nbsp;</p> <p>Cari yang buruk kita elokkan<br /> Cari yang elok hoi dikembangkan</p> <p>&nbsp;</p> <p>Berdentam-dentam dentum hoi tingkah rebana<br /> Beralun-alun merdu hoi irama lagu<br /> Berderap-derap bunyi hoi kaki melangkah<br /> Berpasang-pasang tari hoi geraknya tari</p> <p>&nbsp;</p> <p>Menari menarilah tarian Melayu<br /> Menari menarilah jangan rasa malu<br /> Menari menarilah sejujur hatimu<br /> Menari menarilah tanpa rasa jemu</p> <p>&nbsp;</p> <p>Berdentam-dentam dentum hoi tingkah rebana<br /> Beralun-alun merdu hoi irama lagu<br /> Berderap-derap bunyi hoi kaki melangkah<br /> Berpasang-pasang tari hoi geraknya tari</p> <p>&nbsp;</p> <p>Menari menarilah tarian Melayu<br /> Menari menarilah jangan rasa malu<br /> Menari menarilah sejujur hatimu<br /> Menari menarilah tanpa rasa jemu</p> <p>&nbsp;</p> <p>Berdentam-dentam dentum hoi tingkah rebana<br /> Beralun-alun merdu hoi urama lagu<br /> Berderap-derap bunyi hoi kaki melangkah<br /> Berpasang-pasang tari hoi geraknya tari</p> <p>&nbsp;</p> <p>Menari menarilah tarian Melayu<br /> Menari menarilah jangan rasa malu<br /> Menari menarilah sejujur hatimu<br /> Menari menarilah tanpa rasa jemu</p> "
-	},
-	{
-      "id": 1018,
-      "name_category": "Singles",
-      "title": "Kejora",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfc57de2f41f893d38c26d854",
-      "link_mp3": "https://kangmediadev.com/gudangaudio%2fLesti%2fSingles%2f01%20Kejora.mp3",
-      "lyrics": "<p>Kejora, temanilah malamku<br /> Sampaikan rinduku yang terlarang<br /> Dia yang kucinta, kini t&#39;lah berdua<br /> Tak mampu diriku menahan rindu padanya</p> <p>&nbsp;</p> <p>Kejora, pancarkanlah sinarmu<br /> Temani keheningan malamku<br /> Padamu kejora, kutitipkan rindu<br /> Untuknya yang kini jauh di mata</p> <p>&nbsp;</p> <p>Kuberkhayal, angankan dirimu<br /> Seakan hadir di sini<br /> Temaniku, memelukmu<br /> Indah dalam belai kasih sayang</p> <p>&nbsp;</p> <p>Tak terganti rasa cinta ini<br /> Meski kini kau tak sendiri<br /> Sisa cinta &#39;kan jadi cerita<br /> Tersimpan selamanya bersama kejora</p> <p>&nbsp;</p> <p>Kejora, sampaikan rindu ini</p> <p>&nbsp;</p> <p>Kejora, pancarkanlah sinarmu<br /> Temani keheningan malamku<br /> Padamu kejora, kutitipkan rindu<br /> Untuknya yang kini jauh di mata</p> <p>&nbsp;</p> <p>Kuberkhayal, angankan dirimu<br /> Seakan hadir di sini<br /> Temaniku, memelukmu<br /> Indah dalam belai kasih sayang</p> <p>&nbsp;</p> <p>Tak terganti rasa cinta ini<br /> Meski kini kau tak sendiri<br /> Sisa cinta &#39;kan jadi cerita<br /> Tersimpan selamanya bersama kejora</p> <p>&nbsp;</p> <p>Kejora, sampaikan rindu ini</p> "
-	},
-	{
-      "id": 1019,
-      "name_category": "Singles",
-      "title": "Rumah Kita",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfc57de2f41f893d38c26d854",
-      "link_mp3": "https://kangmediadev.com/gudangaudio%2fLesti%2fSingles%2f01%20Rumah%20Kita.mp3",
-      "lyrics": "<p>Hanya bilik bambu tempat tinggal kita<br /> Tanpa hiasan, tanpa lukisan<br /> Beratap jerami, beralaskan tanah<br /> Namun semua ini punya kita<br /> Memang semua ini milik kita sendiri</p> <p>&nbsp;</p> <p>Hanya alang-alang pagar rumah kita<br /> Tanpa anyelir, tanpa melati<br /> Hanya bunga bakung tumbuh di halaman<br /> Namun semua itu punya kita<br /> Memang semua itu milik kita</p> <p>&nbsp;</p> <p>Haruskah kita beranjak ke kota<br /> Yang penuh dengan tanya?</p> <p>&nbsp;</p> <p>Lebih baik di sini<br /> Rumah kita sendiri<br /> Segala nikmat dan anugerah yang kuasa<br /> Semuanya ada di sini<br /> Rumah kita</p> <p>&nbsp;</p> <p>Haruskah kita beranjak ke kota<br /> Yang penuh dengan tanya?</p> <p>&nbsp;</p> <p>Lebih baik di sini<br /> Rumah kita sendiri<br /> Segala nikmat dan anugerah yang kuasa<br /> Semuanya ada di sini</p> <p>&nbsp;</p> <p>Lebih baik di sini<br /> Rumah kita sendiri<br /> Segala nikmat dan anugerah yang kuasa<br /> Semuanya ada di sini<br /> Rumah kita<br /> Rumah kita<br /> Rumah kita</p> "
-	},
-	{
-      "id": 1020,
-      "name_category": "Singles",
-      "title": "Pokoke Joget",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfc57de2f41f893d38c26d854",
-      "link_mp3": "https://kangmediadev.com/gudangaudio%2fLesti%2fSingles%2f13%20Pokoke%20Joget.mp3",
-      "lyrics": "<p>Hai, teman-teman<br /> Yang penting pokonya joget yok!</p> <p>&nbsp;</p> <p>Pokoke joget, pokoke joget<br /> Pokoke joget, pokoke joget<br /> Pokoke joget, pokoke joget<br /> Pokoke joget, pokoke joget</p> <p>&nbsp;</p> <p>Krungu suorone gendang<br /> Tun mbok mu, tun mbok mu<br /> Penontone jingkrak-jingkrak, goyang-goyang<br /> Krungu suorone suling<br /> Kepenak ono ning kuping<br /> Penontone joget nganti ora eling</p> <p>&nbsp;</p> <p>Pokoke joget, pokoke joget<br /> Pokoke joget, pokoke joget<br /> Pokoke joget, pokoke joget<br /> Pokoke joget, pokoke joget</p> <p>&nbsp;</p> <p>Neng kene kabeh konco<br /> Ora ono sing bedo<br /> Sing tawuran berarti kuwi ndeso</p> <p>&nbsp;</p> <p>Ora ngerti lagune<br /> Ora ngerti syaire<br /> Sing penting aku joget wae<br /> Ra kenal penyanyine<br /> Ra ngerti penciptane<br /> Sing penting hore rame-rame</p> <p>&nbsp;</p> <p>Pokoke joget, pokoke joget<br /> Pokoke joget, pokoke joget<br /> Pokoke joget, pokoke joget<br /> Pokoke joget, pokoke joget</p> <p>&nbsp;</p> <p>Krungu suorone gendang<br /> Tun mbok mu, tun mbok mu<br /> Penontone jingkrak-jingkrak, goyang-goyang<br /> Krungu suorone suling<br /> Kepenak ono ning kuping<br /> Penontone joget nganti ora eling</p> <p>&nbsp;</p> <p>Pokoke joget, pokoke joget<br /> Pokoke joget, pokoke joget<br /> Pokoke joget, pokoke joget<br /> Pokoke joget, pokoke joget</p> <p>&nbsp;</p> <p>Neng kene kabeh konco<br /> Ora ono sing bedo<br /> Sing tawuran berarti kuwi ndeso</p> <p>&nbsp;</p> <p>Ora ngerti lagune<br /> Ora ngerti syaire<br /> Sing penting aku joget wae<br /> Ra kenal penyanyine<br /> Ra ngerti penciptane<br /> Sing penting hore rame-rame</p> <p>&nbsp;</p> <p>Pokoke joget, pokoke joget<br /> Pokoke joget, pokoke joget<br /> Pokoke joget, pokoke joget<br /> Pokoke joget, pokoke joget</p> "
-	},
-	{
-      "id": 1021,
-      "name_category": "Singles",
-      "title": "Ramadan Berkah",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfc57de2f41f893d38c26d854",
-      "link_mp3": "https://kangmediadev.com/gudangaudio%2fLesti%2fSingles%2f01%20Ramadan%20Berkah.mp3",
-      "lyrics": "<p>Sahur.. sahur..<br /> Sahur.. sahur..<br /> Sahur.. sahur..<br /> <br /> Oh...<br /> <br /> Bulan yang dinanti-nantikan telah tiba<br /> Izinkan ku untuk beritakan<br /> Bulan ramadhan bulan yang penuh berkah<br /> Syukur kita bisa menyambutnya<br /> <br /> Satu bulan kita berpuasa<br /> Dimana sekali dalam setahun<br /> Dari itu buat umat muslim semua<br /> Mamfaatkan sebaik baiknya<br /> <br /> Sahur...<br /> Ayo bangun sahur<br /> Tahan lapar nafsu haus<br /> Sempurkan sholat 5 waktu<br /> <br /> Berbuka...<br /> Mari buka puasa<br /> Buka puasa dengan secukupnya<br /> Tuk kekhusyukan ibadah tarawih<br /> <br /> Satu bulan kita berpuasa<br /> Dimana sekali dalam setahun<br /> Dari itu buat umat muslim semua<br /> Mamfaatkan sebaik baiknya<br /> <br /> Sahur...<br /> Ayo bangun sahur<br /> Tahan lapar nafsu haus<br /> Sempurkan sholat 5 waktu<br /> <br /> Berbuka...<br /> Mari buka puasa<br /> Buka puasa dengan secukupnya<br /> Tuk kekhusyukan ibadah tarawih<br /> <br /> Malam yang dinantikan para umat<br /> Itulah malam lailatul qadar<br /> Zakat fitrah sebelum tiba khotbah<br /> Sebagai penyuci amal ibadah<br /> <br /> Lebaran telah tiba<br /> Kemenangan diraih<br /> Minal aidin wal faidzin<br /> Maafkan lahir dan batin<br /> Minal aidin wal faidzin<br /> Maafkan lahir dan batin<br /> <br /> Lebaran telah tiba<br /> Kemenangan diraih<br /> Minal aidin wal faidzin<br /> Maafkan lahir dan batin<br /> Minal aidin wal faidzin<br /> Maafkan lahir dan batin</p> "
-	}
+    
   ]
 }
